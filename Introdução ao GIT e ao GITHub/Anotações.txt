@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+Para adicionar uma nova pasta, arquivo ou edição ao git siga estes passos:
+1 - Damos um git status, aparecerá a pasta ou arquivo adicionado/modificado.
+2 - git add . ou git add -A
+3 - git commit -m "Mensagem da modificação à ser feita"
+4 - git status para confirmar a modificação
+5 - git push origin main para enviar os commits locais para a nuvem no GitHub
